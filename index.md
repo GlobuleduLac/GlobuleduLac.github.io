@@ -5,6 +5,7 @@ permalink: /
 ---
 
 [Contact](/contact)
+[Blog](/blog)
 
 ```mardown
 <!DOCTYPE html>
